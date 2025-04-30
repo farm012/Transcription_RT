@@ -1,6 +1,6 @@
 ## 🎧 Whisper Audio Transcriber
 
-A simple GUI-based tool that uses Whisper and PyQt5 to transcribe audio using microphone input.
+A simple GUI-based tool that uses Whisper and PyQt5 to transcribe audio using desktop input.
 
 ### Features
 - Live transcription using Whisper
